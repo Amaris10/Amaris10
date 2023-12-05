@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning fronend development.
+- 🌱 I’m currently learning frontend development.
 
 <!--
 **Amaris10/Amaris10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
